@@ -1,5 +1,8 @@
 insert into orgs (id, total_emp, department, location)
-values (2,5,'tester','bhopal'),
-(3,6,'QA testing','mumbai'),
-(4,3,'web developer','banglore'),
-(5,4,'python developer','pune');
+values 
+(6, 3, 'web developer', 'banglore'),
+(7, 4, 'data analyst', 'pune'),
+(8, 10, 'web developer', 'indore'),
+(9, 7, 'ios developer', 'pune'),
+(10, 6, 'hr manager', 'bangalore'),
+(11, 3, 'sql developer', 'mumbai');
