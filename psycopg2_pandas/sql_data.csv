@@ -1,0 +1,41 @@
+id,first_name,last_name,position,department,salary,hire_date
+1,John,Doe,Software Engineer,IT,85000.00,2020-03-15
+2,Jane,Smith,Project Manager,Operations,95000.00,2018-07-30
+3,Emily,Johnson,Data Scientist,IT,91000.00,2021-11-20
+4,Michael,Brown,HR Manager,Human Resources,73000.00,2016-04-10
+5,Chris,Davis,Marketing Specialist,Marketing,62000.00,2019-02-25
+6,Jessica,Miller,Accountant,Finance,67000.00,2017-05-15
+7,David,Wilson,DevOps Engineer,IT,88000.00,2021-01-10
+8,Sarah,Moore,UX Designer,Design,75000.00,2020-09-01
+9,James,Taylor,Sales Executive,Sales,55000.00,2019-08-15
+10,Laura,Anderson,Content Writer,Marketing,48000.00,2022-06-18
+11,Kevin,Thomas,Network Administrator,IT,68000.00,2018-03-12
+12,Megan,Jackson,Product Manager,Operations,87000.00,2020-12-05
+13,Daniel,White,IT Support,IT,54000.00,2021-07-30
+14,Amy,Harris,Graphic Designer,Design,72000.00,2019-11-23
+15,Brian,Martin,Legal Advisor,Legal,96000.00,2017-01-20
+16,Sophia,Garcia,Customer Support,Customer Service,40000.00,2022-03-11
+17,Tyler,Martinez,SEO Specialist,Marketing,52000.00,2019-05-22
+18,Emma,Lopez,Operations Analyst,Operations,77000.00,2020-08-15
+19,Olivia,Gonzalez,Recruiter,Human Resources,63000.00,2018-09-05
+20,Benjamin,Perez,Software Tester,IT,61000.00,2021-04-12
+21,Ethan,Walker,Business Analyst,Operations,78000.00,2022-07-15
+22,Ava,Young,Senior Developer,IT,105000.00,2019-01-25
+23,Isabella,Allen,Product Designer,Design,85000.00,2021-10-01
+24,Oliver,Scott,Financial Analyst,Finance,72000.00,2020-03-10
+25,Charlotte,Adams,HR Coordinator,Human Resources,54000.00,2018-12-05
+26,Amelia,Baker,Social Media Manager,Marketing,58000.00,2021-08-30
+27,William,Nelson,SEO Specialist,Marketing,50000.00,2022-01-20
+28,James,Carter,Network Engineer,IT,75000.00,2020-11-15
+29,Sophia,Mitchell,Customer Success Manager,Customer Service,64000.00,2019-06-25
+30,Jackson,Roberts,Operations Manager,Operations,95000.00,2017-09-10
+31,Liam,Gonzalez,Cloud Architect,IT,115000.00,2022-04-03
+32,Amos,Moore,Public Relations Specialist,Marketing,61000.00,2020-02-18
+33,Mia,Perez,Legal Assistant,Legal,55000.00,2021-05-08
+34,Lucas,Hernandez,Product Owner,Operations,87000.00,2021-03-25
+35,Ella,Gonzalez,Talent Acquisition Specialist,Human Resources,65000.00,2020-10-07
+36,Henry,Clark,HR Business Partner,Human Resources,92000.00,2018-05-02
+37,Aiden,Rodriguez,Full Stack Developer,IT,102000.00,2019-09-22
+38,Lily,Martinez,Content Marketing Manager,Marketing,75000.00,2021-11-01
+39,Logan,Lee,UX Researcher,Design,71000.00,2020-01-13
+40,Mason,Evans,Financial Controller,Finance,88000.00,2017-06-04
